@@ -11,3 +11,5 @@ go version
 node -v
 
 node server.js
+
+echo server running at http://localhost:8001/
