@@ -1,0 +1,8 @@
+echo Installing dependencies 
+curl https://get.starport.network/starport! | bash
+sudo mv starport /usr/local/bin/
+wget https://go.dev/dl/go1.17.5.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.17.5.linux-amd64.tar.gz
+sudo export PATH=$PATH:/usr/local/go/bin
+starport version 
+go version   
