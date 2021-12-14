@@ -1,6 +1,10 @@
-# Cosmos-Blockchain-front-end-builder-
+# Cosmos-Factory 
+
+
 
 Creating a smooth front-end Cosmos Blockchain builder
+
+OPEN SOURCE
 
 Installation 
 ```
