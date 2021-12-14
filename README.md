@@ -10,7 +10,7 @@ OPEN SOURCE
 Installation 
 ```
 git clone https://github.com/vincadian/Cosmos-Factory.git
-cd Cosmos-factory
+cd Cosmos-Factory
 sh init.sh
 ```
 
