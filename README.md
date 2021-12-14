@@ -7,6 +7,5 @@ Installation
 git clone https://github.com/vincadian/Cosmos-Factory.git
 cd Cosmos-factory
 sh init.sh
-
 ```
 
