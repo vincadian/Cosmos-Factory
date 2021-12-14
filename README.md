@@ -2,7 +2,8 @@
 
 
 
-Creating a smooth front-end Cosmos Blockchain builder
+Creating a smooth front-end Cosmos Blockchain builder.
+
 
 OPEN SOURCE
 
