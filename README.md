@@ -4,6 +4,6 @@ Creating a smooth front-end Cosmos Blockchain builder
 
 Installation 
 
-git clone https://github.com/vincadian/Cosmos-Factory.git
+{% filename %}command-line git clone https://github.com/vincadian/Cosmos-Factory.git{% endfilename %}
 cd Cosmos-factory
 sh init.sh
